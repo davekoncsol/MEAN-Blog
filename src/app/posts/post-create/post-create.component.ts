@@ -6,7 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./post-create.component.css']
 })
 export class PostCreateComponent implements OnInit {
-
+  onAddPost() {
+    alert('worked');
+  }
   constructor() { }
 
   ngOnInit() {
