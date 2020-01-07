@@ -1,5 +1,7 @@
 # MEAN Blog 
 
+<img src="https://i.imgur.com/HaYHzSp.png">
+
 <p>This app will be a MEAN stack blog site. 
 
 <p>Just started the project 1/6/20 
@@ -11,6 +13,10 @@
 * Node.JS
 
 ## Future Dev.
+* Connect to MongoDB
+* Style more
+* Add user login and blog pages
+
 
 ## Development server
 
